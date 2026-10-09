@@ -3,14 +3,14 @@
 Team name:MuscleUp
 
 Members and contact method:
-Shadrack and Shaka
+Peter,Munge and Rufo
 ## Working agreement
 
 - Where we coordinate:
 - Expected response time:
 - How we divide issues:
 - Who reviews a PR if the usual reviewer is unavailable:
-  Shadrack
+  Munge and Rufo
 - What we do when a member is blocked:
 - How we resolve a disagreement:
 
